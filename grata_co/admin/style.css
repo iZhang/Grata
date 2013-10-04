@@ -1,0 +1,77 @@
+form.right
+{
+	position:relative;
+	right:0px;
+	width:300px;;
+}
+
+form.apply
+{	
+	background: -webkit-gradient(linear, bottom, left 175px, from(#CCCCCC), to(#EEEEEE));
+	background: -moz-linear-gradient(bottom, #CCCCCC, #EEEEEE 175px);
+	margin-left:10px;
+	margin-top:10px;
+	position:relative;
+	width:600px;
+	height:65px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: bold;
+	text-decoration: none;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	padding:10px;
+	border: 1px solid #999;
+	border: inset 1px solid #333;
+}
+
+form.apply2
+{
+	background: -webkit-gradient(linear, bottom, left 175px, from(#CCCCCC), to(#EEEEEE));
+	background: -moz-linear-gradient(bottom, #CCCCCC, #EEEEEE 175px);
+	margin:auto;
+	position:relative;
+	width:200px;
+	height:60px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: bold;
+	text-decoration: none;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	padding:10px;
+	border: 1px solid #999;
+	border: inset 1px solid #333;
+}
+
+form.apply3
+{
+	margin:auto;
+	position:relative;
+	margin-left:10px;
+	width:400px;
+	height:65px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: bold;
+}
+
+#table
+{
+	border:5px solid gray;
+	margin-left:auto;
+	margin-right:auto;
+	width:85%;
+}
+
+#urlB
+{
+	border:5px solid green;
+	margin-left:auto;
+	margin-right:auto;
+}

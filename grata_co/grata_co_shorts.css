@@ -1,0 +1,17 @@
+.fieldset-auto-width
+	{
+		display: inline-block;
+	}
+.center
+	{
+		text-align: center;
+	}
+.resize
+	{
+		width:100px;
+		height:100px;
+	}
+#idone
+	{
+		text-align:left;
+	}

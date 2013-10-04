@@ -17,3 +17,5 @@ Utilized the following languages:
 -ajax
 -jquery
 -html5/css
+
+User interface for this project is contained in customize.php. Libraries for qr code generator are located in php-qr-code.
